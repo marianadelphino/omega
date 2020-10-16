@@ -1,0 +1,3 @@
+jdbc:oracle:thin:/:@192.168.60.15:1521:ORCL
+systemOPS$RM75099
+130990
